@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generate intermedia files
+left.json
+right.json
+# Idea
+.idea/
